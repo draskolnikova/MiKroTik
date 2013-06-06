@@ -1,4 +1,5 @@
 /ip firewall address-list
+rem [find list="nice"]
 add list=nice address="120.160.0.0/11"
 add list=nice address="182.0.0.0/12"
 add list=nice address="114.120.0.0/13"
